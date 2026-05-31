@@ -1,0 +1,32 @@
+bundle: agent-forge-specialized
+items:
+  - id: agent/specialized/blockchain-developer
+    kind: agent
+    name: blockchain-developer
+    domain: specialized
+    license: MIT
+    description: "Use this agent when building smart contracts, DApps, and blockchain protocols that require expertise in Solidity, gas optimization, security auditing, and Web3 "
+  - id: agent/specialized/embedded-systems
+    kind: agent
+    name: embedded-systems
+    domain: specialized
+    license: MIT
+    description: Use when developing firmware for resource-constrained microcontrollers, implementing RTOS-based applications, or optimizing real-time systems where hardware con
+  - id: agent/specialized/fintech-engineer
+    kind: agent
+    name: fintech-engineer
+    domain: specialized
+    license: MIT
+    description: Use when building payment systems, financial integrations, or compliance-heavy financial applications that require secure transaction processing, regulatory adh
+  - id: agent/specialized/game-developer
+    kind: agent
+    name: game-developer
+    domain: specialized
+    license: MIT
+    description: Use this agent when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games target
+  - id: agent/specialized/mobile-app-developer
+    kind: agent
+    name: mobile-app-developer
+    domain: specialized
+    license: MIT
+    description: Use this agent when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform
